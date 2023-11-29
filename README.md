@@ -33,9 +33,10 @@ def gcd():
     print("GCD of two numbers is:",hcf)
 
 ```
-
 ## Output:
-![gcd of two number](gcd.png)
+
+![Alt text](<Screenshot 2023-11-29 080917.png>)
+
 
 ![Alt text](<Screenshot 2023-11-29 080315.png>)
 
