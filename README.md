@@ -1,6 +1,6 @@
 # Find the GCD of two numbers
 
-## AIM:
+## Aim:
 To write a program to find the GCD of two numbers using function.
 
 ## Equipments Required:
